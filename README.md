@@ -56,6 +56,12 @@ $ flutter pub add dio
 
 </details><br/>
 
+<details><summary>Pubspec Assist</summary>
+<ol>
+  <li>provider</li>
+</ol>
+</details><br/>
+
 
 
 <hr/>
