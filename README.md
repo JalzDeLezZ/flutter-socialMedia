@@ -56,9 +56,10 @@ $ flutter pub add dio
 
 </details><br/>
 
-<details><summary>Pubspec Assist</summary>
+<details><summary>Pubspec Assist (Dependences)</summary>
 <ol>
   <li>provider</li>
+  <li>intl</li>
 </ol>
 </details><br/>
 
