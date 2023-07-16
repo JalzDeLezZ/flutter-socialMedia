@@ -60,6 +60,7 @@ $ flutter pub add dio
 <ol>
   <li>provider</li>
   <li>intl</li>
+  <li>animate_do</li>
 </ol>
 </details><br/>
 
