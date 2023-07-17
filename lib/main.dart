@@ -20,11 +20,8 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         theme: AppTheme().getTheme(),
         title: 'TokTik',
-        home: Scaffold(
-          appBar: AppBar(
-            title: const Text('Material App Bar'),
-          ),
-          body: const DiscoverScreen(),
+        home: const Scaffold(
+          body: DiscoverScreen(),
         ),
       ),
     );

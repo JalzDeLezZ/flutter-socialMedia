@@ -61,7 +61,15 @@ $ flutter pub add dio
   <li>provider</li>
   <li>intl</li>
   <li>animate_do</li>
+  <li>video_player</li>
 </ol>
+</details>
+<br/>
+
+<details><summary>Documentation</summary>
+<ul>
+  <li><a href="https://docs.flutter.dev/cookbook/plugins/play-video" target="_blank">Play and pause a video</a></li>
+</ul>
 </details><br/>
 
 
