@@ -72,6 +72,14 @@ $ flutter pub add dio
 </ul>
 </details><br/>
 
+<details><summary>Notes</summary>
+
+```bash
+# Datasource
+$ fuente de datos, gobierna las orientaciones de los datos
+```
+</details><br/>
+
 
 
 <hr/>
