@@ -77,6 +77,13 @@ $ flutter pub add dio
 ```bash
 # Datasource
 $ fuente de datos, gobierna las orientaciones de los datos
+
+# Clean Architecture
+1. UI
+2. Presentation
+3. Use Cases
+4. Repository & DataSources
+5. Render UI
 ```
 </details><br/>
 
